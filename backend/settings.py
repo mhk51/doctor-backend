@@ -85,7 +85,7 @@ ASGI_APPLICATION = 'backend.asgi.application'
 DATABASES = {
        'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'saugodoctor1',
+        'NAME': 'mydb',
         'USER': 'ghaida',
         'PASSWORD': 'Sisibisi13',
         'HOST':'healtech.mysql.database.azure.com',
